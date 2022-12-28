@@ -3,8 +3,8 @@
 Description. 
 The package processamento_imagem is used to:
 	Processamento:
-		- Comparação de histogramas
-		- Similaridade de estrutura
+		- Comparacao de histogramas
+		- Similaridade de estruturas
 		- Redimensionamento de imagem
 	Utilidades:
 		- Carregar imagem
@@ -18,7 +18,7 @@ The package processamento_imagem is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install processamento_imagem
 
 ```bash
-pip install processamento_imagem
+pip install dio-desafio-pacote-processamento-imagem
 ```
 
 ## Author
